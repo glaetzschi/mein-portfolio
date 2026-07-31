@@ -685,14 +685,15 @@ footer {
   display: flex;
   justify-content: center;
   width: 100%;
-  margin: 40px 0;
-  padding: 0 16px;
+  margin: 50px auto;
+  padding: 0 20px;
   box-sizing: border-box;
 }
 
 .video-section iframe {
+  display: block;
   width: 100%;
-  max-width: 800px;
+  max-width: 1000px;
   aspect-ratio: 16 / 9;
   height: auto;
   border: 0;

@@ -154,3 +154,4 @@ document.addEventListener("keydown", (event) => {
     showImage(currentImage);
   }
 });
+

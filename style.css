@@ -680,3 +680,17 @@ footer {
     right: -15px;
   }
 }
+
+.video-section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.video-section iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: none;
+}

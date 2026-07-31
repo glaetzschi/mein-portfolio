@@ -697,3 +697,13 @@ footer {
   border-radius: 22px;
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
 }
+
+.telefonnummer {
+  color: #5A4A42;
+  text-decoration: none;
+}
+
+a[x-apple-data-detectors] {
+  color: #5A4A42 !important;
+  text-decoration: none !important;
+}

@@ -680,3 +680,17 @@ footer {
     right: -15px;
   }
 }
+
+.video-section {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 40px 0;
+}
+
+.video-section iframe {
+  width: min(800px, 90%);
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+}
